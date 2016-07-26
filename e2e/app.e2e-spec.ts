@@ -1,10 +1,10 @@
-import { ChartTestPage } from './app.po';
+import { GitTestPage } from './app.po';
 
-describe('chart-test App', function() {
-  let page: ChartTestPage;
+describe('git-test App', function() {
+  let page: GitTestPage;
 
   beforeEach(() => {
-    page = new ChartTestPage();
+    page = new GitTestPage();
   });
 
   it('should display message saying app works', () => {

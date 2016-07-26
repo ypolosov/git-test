@@ -1,4 +1,4 @@
-export class ChartTestPage {
+export class GitTestPage {
   navigateTo() {
     return browser.get('/');
   }
