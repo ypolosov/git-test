@@ -9,7 +9,7 @@ import {UIChart} from 'primeng/primeng';
                directives: [UIChart]
            })
 export class AppComponent {
-    title = 'app works well!';
+    title = 'app works very well!';
     
     data: any;
     
