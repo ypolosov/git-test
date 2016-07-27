@@ -17,7 +17,9 @@ module.exports = function (defaults) {
             'rxjs/**/*.+(js|js.map)',
             '@angular/**/*.+(js|js.map)',
             'chart.js/dist/Chart.bundle.min.js',
-            'primeng/**/*.+(js|js.map)'
+            'primeng/**/*.+(js|js.map)',
+            'primeui/primeui-ng-all.min.css',
+            'primeui/themes/omega/**/*.+(css|woff2|woff|ttf)'
         ]
     });
 };
